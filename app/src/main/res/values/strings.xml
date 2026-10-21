@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecretLock</string>
+    <string name="accessibility_service_description">Protects device screen locking and intercepts unlock sequences for SecretLock.</string>
+</resources>

@@ -9,6 +9,8 @@
 [![Build](https://img.shields.io/badge/Build-Gradle%20Passing-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
+[![Download APK](https://img.shields.io/badge/⬇️_Download-SecretLock_APK-2D3932?style=for-the-badge&logo=android&logoColor=white)](https://github.com/amit20-lab/SecretLock/releases/latest)
+
 ---
 
 ## 📖 Overview
@@ -24,6 +26,10 @@ SecretLock renders your device completely inaccessible—**even to people who kn
 When armed, SecretLock enforces an **instant 0ms hardware re-lock** the exact millisecond the display is turned on. It acts as an invisible gatekeeper: the phone will immediately shut off access unless **your authorized Bluetooth hardware key** (such as paired earbuds, headphones, smartwatch, or audio receiver) connects to the phone, or the automatic **failsafe countdown timer** elapses.
 
 The app is built entirely with modern **Jetpack Compose (Material 3)**, adheres to Android architecture best practices, and operates **100% offline** with zero network permissions.
+
+### 📥 Direct APK Download
+No need to build from source! Visitors can download the ready-to-install Android APK directly from the [Releases](https://github.com/amit20-lab/SecretLock/releases) section:
+👉 **[Download Latest SecretLock.apk (v1.0)](https://github.com/amit20-lab/SecretLock/releases/latest)**
 
 ---
 
